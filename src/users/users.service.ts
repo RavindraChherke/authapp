@@ -13,11 +13,13 @@ export class UsersService {
     {
       userId: 1,
       username: 'john',
+      email: 'ravi@gmail.com',
       password: 'changeme',
     },
     {
       userId: 2,
       username: 'maria',
+      email: 'india@gmail.com',
       password: 'guess',
     },
   ];
